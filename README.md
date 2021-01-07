@@ -1,5 +1,4 @@
-# Shopping-Cart-System
-Shopping Cart System with PHP and MySQL.
+# Shopping_Cart_System
 
 The Shopping Cart System will allow website visitors:
 - to browse for products, 
